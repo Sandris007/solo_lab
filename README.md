@@ -1,2 +1,7 @@
-# Famos calculator ever
-Another famos calculator
+# branch for lab docs
+- VOC
+- EPIC
+- User story
+- Infrastructure description
+- 
+
